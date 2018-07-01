@@ -13,3 +13,7 @@ Ferramentas:
 
 - [Coveralls](https://coveralls.io/github/daniloagostinho/unit-test)
 - [Travis](https://travis-ci.org/daniloagostinho/unit-test/settings)
+
+<pre>
+ npm install coveralls --save-dev
+</pre>
