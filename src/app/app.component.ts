@@ -9,6 +9,8 @@ export class AppComponent {
 
   title = 'app';
 
+  a = true;
+
   points = 1;
 
   plus1() {
