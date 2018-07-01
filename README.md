@@ -6,4 +6,4 @@ Ambiente de testes que usa:
 - Karma;
 - PhantomJS.
 
-[](https://travis-ci.org/daniloagostinho/unit-test.svg?branch=master)
+<img src="https://travis-ci.org/daniloagostinho/unit-test.svg?branch=master">
